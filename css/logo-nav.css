@@ -4,7 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 <title>How Sweet It Is</title>
-body {
+
+body 
+{
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
