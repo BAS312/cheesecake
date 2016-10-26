@@ -54,9 +54,9 @@ body {
 
 .carousel-inner > .item > img,
    .carousel-inner > .item > a > img{
-                width: 70%
+                width: 70%;
                 margin: auto;
-                color:#069 
+                color:#069;
                     
 }
 hr
