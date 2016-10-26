@@ -3,7 +3,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-
+<title>How Sweet It Is</title>
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
@@ -15,8 +15,26 @@ body {
     background-color:#f933;
     color: #fff;
 }
-.navbar-inverse navbar.nav > li >a {
+
+.btn{
+    background:#069
+    color:#
+}
+/*changed button color*/
+
+.navbar-inverse .navbar-nav >li a{
+    color:#
+}
+
+.navbar-inverse .navbar.nav > li >a:active{
+    background:#f000;
     color: #f000; 
+    }
+    
+    .navbar-fixed-top .navbar-brand {
+        padding: 0 15px;
+    
+    
     /*Change active text color here*/
 }
 .navbar-inverse {
@@ -27,6 +45,50 @@ body {
 }
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
+}
+.jumbotron{
+    
+        padding:0
+        background:#069
+}
+
+.carousel-inner > .item > img,
+   .carousel-inner > .item > a > img{
+                width: 70%
+                margin: auto;
+                color:#069 
+                    
+}
+hr
+height: 2px;
+background-color:#069;
+}
+
+.gallery{
+    float:left;
+    margin:10px;
+    padding:5px;
+    width:305px;
+    height:250px;
+    border:  2px solid #069;
+}
+
+
+.gallery h4{
+    background:  #069;
+    color:#fff;
+    font-weight:bolder;
+    font-family:  arial;
+    text-align:center;
+    
+                    
+                    
+                    
+            
+}
+hr{
+    height:2px;
+    background-color:#069
 }
 
 @media(min-width:768px) {
