@@ -24,7 +24,7 @@ body
 }
 /*changed button color*/
 
-.navbar-inverse .navbar-nav >li a{
+.navbar-inverse .navbar-nav >li >a{
     color:#
 }
 
@@ -49,8 +49,7 @@ body
     padding: 0 15px;
 }
 .jumbotron{
-    
-        padding:0
+         padding:0
         background:#069
 }
 
@@ -88,15 +87,9 @@ p.list-group-item-text{
 }
 @media(min-width:768px) {
     body{
-        padding-top:  100px; /*required padding for .navbar-fixed-top. Change if height 
+        padding-top:  100px; /*required padding for .navbar-fixed-top. Change if height */
     }            
-                    
-                    
-            
-}
-hr{
-    height:2px;
-    background-color:#069
+      
 }
 
 @media(min-width:768px) {
@@ -105,6 +98,6 @@ hr{
     }
 
     .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
+        padding: 2px 25;
     }
 }
