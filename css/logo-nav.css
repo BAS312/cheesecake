@@ -20,7 +20,7 @@ body
 
 .btn{
     background:#cc6699;
-    color:#fff
+    color:#602040
 }
 /*changed button color*/
 
@@ -34,7 +34,7 @@ body
     }
     
     .navbar-fixed-top .navbar-brand {
-        padding: 0 15px;
+        padding:  15px;
     
     
     /*Change active text color here*/
@@ -46,10 +46,10 @@ body
     color: #e6b3cc
 }
 .navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
+    padding:  15px;
 }
 .jumbotron{
-         padding:0
+         padding:15px
         background:#e6b3cc
 }
 
@@ -78,7 +78,7 @@ background-color:#73264d;
     background:#ecc6d9;
     color:#fff;
     font-weight:bolder;
-    font-family: arial;color:#fff
+    font-family: arial; color:#fff
     text-align:center;
 }
 
@@ -98,6 +98,6 @@ p.list-group-item-text{
     }
 
     .navbar-fixed-top .navbar-brand {
-        padding: 2px 25;
+        padding: 25px 25px;
     }
 }
