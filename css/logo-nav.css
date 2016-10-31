@@ -14,18 +14,18 @@ body
     padding: 15px 0;
 }
 .navbar-inverse{
-    background-color:#f933;
+    background-color:#ac3973;
     color: #fff;
 }
 
 .btn{
-    background:#069
-    color:#
+    background:#cc6699;
+    color:#fff
 }
 /*changed button color*/
 
 .navbar-inverse .navbar-nav >li >a{
-    color:#
+    color:#73264d
 }
 
 .navbar-inverse .navbar.nav > li >a:active{
@@ -50,19 +50,19 @@ body
 }
 .jumbotron{
          padding:0
-        background:#069
+        background:#e6b3cc
 }
 
 .carousel-inner > .item > img,
    .carousel-inner > .item > a > img{
                 width: 70%;
                 margin: auto;
-                color:#069;
+                color:#bf4080;
                     
 }
 hr
 height: 2px;
-background-color:#069;
+background-color:#73264d;
 }
 
 .gallery{
@@ -71,11 +71,11 @@ background-color:#069;
     padding:5px;
     width:305px;
     height:250px;
-    border:  2px solid #069;
+    border:  2px solid color:#ac3973;
 }
 
 .gallery h4{
-    background:  #069;
+    background:#ecc6d9;
     color:#fff;
     font-weight:bolder;
     font-family: arial;
