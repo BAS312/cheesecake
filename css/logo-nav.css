@@ -34,7 +34,7 @@ body
     }
     
     .navbar-fixed-top .navbar-brand {
-        padding:  15px;
+        padding:  5px;
     
     
     /*Change active text color here*/
@@ -46,7 +46,7 @@ body
     color: #e6b3cc
 }
 .navbar-fixed-top .navbar-brand {
-    padding:  15px;
+    padding:  5px;
 }
 .jumbotron{
          padding:15px
@@ -98,6 +98,6 @@ p.list-group-item-text{
     }
 
     .navbar-fixed-top .navbar-brand {
-        padding: 25px 25px;
+        padding: 10px 10px;
     }
 }
