@@ -40,10 +40,10 @@ body
     /*Change active text color here*/
 }
 .navbar-inverse {
-    background-color: #069;
+    background-color: #e6b3cc ;
 }
 .navbar.collapse{
-    color:#069
+    color: #e6b3cc
 }
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
@@ -78,7 +78,7 @@ background-color:#73264d;
     background:#ecc6d9;
     color:#fff;
     font-weight:bolder;
-    font-family: arial;
+    font-family: arial;color:#fff
     text-align:center;
 }
 
