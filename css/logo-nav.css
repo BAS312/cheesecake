@@ -79,7 +79,9 @@ background-color:#73264d;
     background:#ecc6d9;
     color:#fff;
     font-weight:bolder;
-    font-family: "palatino linotype"; color:#fff
+}
+div
+    font-family:palatinolinotype; color:#fff
     text-align:center;
 }
 
