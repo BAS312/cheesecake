@@ -89,7 +89,7 @@ p.list-group-item-text{
 }
 
 @media(min-width:768px) 
-    body {
+   /* body {
         padding-top:  100px; /*required padding for .navbar-fixed-top. Change if height */
               
       
