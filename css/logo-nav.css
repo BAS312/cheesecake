@@ -58,11 +58,11 @@ body
                 width: 70%;
                 margin: auto;
                 color:#bf4080;
-                    
-
-height: 2px;
+}                   
+hr{
+height: 25px;
 background-color:#73264d;
-
+}
 
 .gallery h4{
     float:left;
@@ -71,7 +71,7 @@ background-color:#73264d;
     width:305px;
     height:250px;
     border:  2px solid color:#ac3973;
-
+}
 
 .gallery h4{
     background:#ecc6d9;
@@ -79,8 +79,7 @@ background-color:#73264d;
     font-weight:bolder; font-family:palatino linotype; color:#fff;
     text-align:center;
 
-
-
+}
 
 
 p.list-group-item-text{
@@ -101,3 +100,4 @@ p.list-group-item-text{
     .navbar-fixed-top .navbar-brand {
         padding: 5px 5px;
 
+    }
