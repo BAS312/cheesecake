@@ -97,3 +97,7 @@ p.list-group-item-text {
         padding: 2px 25px;
     }
 }
+
+.carousel-indicators li { 
+    visibility: hidden; 
+}
