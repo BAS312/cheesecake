@@ -43,40 +43,40 @@ body
     background-color: #e6b3cc;
 }
 
-.navbar.collapse{
+.navbar.collapse {
     color: #e6b3cc
 }
 .navbar-fixed-top .navbar-brand {
     padding:  5px; 
 }
 
-.jumbotron{
-         padding:15px
+.jumbotron {
+         padding:15px;
         background:#e6b3cc;
     
     
 }
 
 .carousel-inner > .item > img,
-   .carousel-inner > .item > a > img{
+   .carousel-inner > .item > a > img {
                 width: 70%;
                 margin: auto;
                 color:#bf4080;
 } 
 
-hr{
-height: 8px;
-background-color:#73264d;
+hr {
+    height: 8px;
+    background-color:#73264d;
 }
 
-.gallery{ 
+.gallery { 
     float:left;
     margin:10px;
     padding:5px;
     border: 2px solid #bf4080;
 }
 
-.gallery h4{ 
+.gallery h4 { 
     background:#e6b3cc ;
     color:#fff;
     font-weight:bolder;
@@ -84,7 +84,7 @@ background-color:#73264d;
     text-align:center;
 }
 
-p.list-group-item-text{
+p.list-group-item-text {
  padding-left:5px;   
 }
 
