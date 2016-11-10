@@ -21,12 +21,12 @@ body
 
 .btn{
     background:#cc6699;
-    color:#602040
+    color:#602040;
 }
 /*changed button color*/
 
 .navbar-inverse .navbar-nav >li >a{
-    color:#73264d
+    color:#73264d;
 }
 
 .navbar-inverse .navbar.nav > li >a:hover{
@@ -44,14 +44,14 @@ body
 }
 
 .navbar.collapse {
-    color: #e6b3cc
+    color: #e6b3cc;
 }
 .navbar-fixed-top .navbar-brand {
     padding:  5px; 
 }
 
 .jumbotron {
-        padding:15px
+        padding:15px;
         background:#e6b3cc;
     
     
