@@ -89,12 +89,12 @@
         </div>
         <!-- /.container -->
     </nav>
-
-    
+  
    
     <!-- Page Content -->
     <div class="container">
-    
+  
+        
   <!--<h2>Homestyle Recipes</h2>
   <p>6 Outstanding Homestyle Cheesecake Recipes.</p>
  <!-- Trigger the modal with a button -->
@@ -144,18 +144,34 @@
                 <div id="myTabContent" class="tab-content">
                     <div class="tab-pane fade active in" id="service-one">
                      <h4><span>Cc</span></h4>      
-  <footer> 
-</footer>
-            </div>    
-      
-    <!-- /.container -->
+  
+                        
 
+   <hr>
+    <br>
+                        
+     <footer class="container-fluid text-center">
+  <a href="#myPage" title="To Top">
+      
+      <span class="glyphicon glyphicon-hand-up" aria-hidden="true"></span>
+     <!--<span class="glyphicon-class">glyphicon glyphicon-hand-up</span>-->
+      
+  </a>
+  <p> <a href=" "title=""> <!--.com--></a></p>
+         
+</footer> 
+         
+         </div>
+ 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
+    
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-    
+     <script src="js/bootstrap.min.js"></script>    
+  
+  <script src="js/scrollspy.js"></script>
+   
     <script>
 $(document).ready(function(){
   // Add smooth scrolling to all links in navbar + footer link
@@ -164,10 +180,8 @@ $(document).ready(function(){
     if (this.hash !== "") {
       // Prevent default anchor click behavior
       event.preventDefault();
-
       // Store hash
       var hash = this.hash;
-
       // Using jQuery's animate() method to add smooth page scroll
       // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
       $('html, body').animate({
@@ -183,7 +197,6 @@ $(document).ready(function(){
   $(window).scroll(function() {
     $(".slideanim").each(function(){
       var pos = $(this).offset().top;
-
       var winTop = $(window).scrollTop();
         if (pos < winTop + 600) {
           $(this).addClass("slide");
@@ -195,6 +208,7 @@ $(document).ready(function(){
 
 </body>
 
-</html>
 
+
+</html>
 
