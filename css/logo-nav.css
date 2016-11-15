@@ -69,6 +69,14 @@ hr {
     background-color:#73264d;
 }
 
+.fruit{
+    font-family: 'Cinzel', serif;
+    text-shadow: 4px 4px 4px #ffcce5;
+}
+    hr{
+    height:2px;
+    background-color:#f00;
+}
 .gallery { 
     float:left;
     margin:10px;
@@ -80,7 +88,7 @@ hr {
     background:#e6b3cc ;
     color:#fff;
     font-weight:bolder;
-    font-family:"palatino linotype", monospace;
+  font-family: 'Cormorant Garamond', serif;
     text-align:center;
 }
 
