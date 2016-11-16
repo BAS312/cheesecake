@@ -18,15 +18,14 @@ body
     background-color:#ac3973;
     color: #fff;
 }
-    .bump{
-    font-family: 'Cinzel', serif;
-    /text-shadow: 0px 0px 0px #ff99ca;
-}
-        .btn{
+
+.btn{
     background:#cc6699;
     color:#602040;
 }
 /*changed button color*/
+
+
 
 .navbar-inverse .navbar-nav >li >a{
     color:#73264d;
@@ -60,22 +59,19 @@ body
                 width: 70%;
                 margin: auto;
                 color:#bf4080;
-} 
-
-hr {
-    height: 8px;
-    background-color:#BA55D3;
 }
 
-.fruit{
+.bump{
     font-family: 'Cinzel', serif;
-    text-shadow: 4px 4px 4px #ffcce5;
+    text-shadow: 0px 0px 0px #ffcce5;
     text-align:center;
 }
+
     hr{
     height:2px;
-    background-color:#f00;
+    background-color:#df9fbf;
 }
+
 .gallery { 
     float:left;
     margin:10px;
