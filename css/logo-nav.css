@@ -18,8 +18,11 @@ body
     background-color:#ac3973;
     color: #fff;
 }
-
-.btn{
+    .bump{
+    font-family: 'Cinzel', serif;
+    text-shadow: 4px 4px 4px #f00;
+}
+        .btn{
     background:#cc6699;
     color:#602040;
 }
