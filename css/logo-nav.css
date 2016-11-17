@@ -17,6 +17,7 @@ body
 .navbar-inverse{
     background-color:#ac3973;
     color: #fff;
+    font-family:'Cinzel', serif;
 }
 
 .btn{
