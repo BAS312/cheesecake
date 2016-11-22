@@ -53,15 +53,15 @@ body
 .jumbotron {
         padding:15px;
         background:#e6b3cc;
-  
+       
 }
 .carousel-inner > .item > img,
    .carousel-inner > .item > a > img {
                 width: 70%;
                 margin: auto;
                 color:#bf4080;
+             font-family:'Cinzel', serif;
 }
-
 .bump{
     font-family:'Cinzel-Regular', serif;
     text-shadow: 0px 0px 0px #ffcce5;
@@ -84,7 +84,7 @@ body
     background:#e6b3cc ;
     color:#fff;
     font-weight:bolder;
-    font-family: "Cinzel-Regular", serif;
+    font-family:'Cinzel-Regular' serif;
     text-align:center;
 }
 
@@ -99,11 +99,12 @@ p.list-group-item-text {
 
     .navbar-fixed-top .navbar-brand {
         padding: 2px 25px;
-    }
+    
 }
 .carousel-indicators li { 
     visibility: hidden; 
 }
 div.modal-body {
-    font-size: 
+    font-size: 3 px
+    font-family:'Cinzel', serif;
 }
