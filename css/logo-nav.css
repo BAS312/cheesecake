@@ -4,10 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-height: 2px;
+
 body 
 {
-    padding-top: 5px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    padding-top: 5px;
+    font-family:'Cinzel', serif; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
 .navbar-fixed-top .nav {
@@ -23,6 +24,7 @@ body
 .btn{
     background:#cc6699;
     color:#602040;
+    font-family:'Cinzel', serif;
 }
 /*changed button color*/
 
