@@ -63,7 +63,7 @@ body
                 font-family:'Cinzel', serif;
 }
 .bump{
-    font-family:'Cinzel-Regular', serif;
+    font-family:'Cinzel', serif;
     text-align:center;
 }
 
@@ -83,7 +83,7 @@ body
     background:#e6b3cc ;
     color:#fff;
     font-weight:bolder;
-    font-family:'Cinzel-Regular' serif;
+    font-family:'Cinzel', serif;
     text-align:center;
 }
 
